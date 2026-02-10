@@ -1,0 +1,30 @@
+# Фреймворк для нейронных сетей (Выберите ОДИН из двух главных)
+torch
+torchvision
+torchaudio
+
+tensorflow
+# keras
+
+# Фундаментальные библиотеки для вычислений и данных
+numpy
+pandas
+statsmodels
+scikit-learn
+matplotlib
+seaborn
+jupyter
+ipywidgets
+tqdm
+
+# Для работы с данными и их визуализации
+Pillow
+opencv-python
+scikit-image
+
+# Дополнительные полезные инструменты
+wandb  # Для красивого логирования экспериментов (Weights & Biases)
+# tensorboard  # Логирование экспериментов (часто идет с TF, но есть и для PyTorch)
+kagglehub
+catboost
+shap

@@ -1,0 +1,24 @@
+# Большие файлы
+*.csv
+*.pkl
+*.h5
+*.npy
+
+# CatBoost логи
+**/catboost_info/
+
+# PDF файлы
+*.pdf
+
+# Виртуальное окружение
+MLvenv/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Системные файлы Mac
+.DS_Store
